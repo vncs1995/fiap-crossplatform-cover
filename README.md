@@ -1,6 +1,6 @@
 # Produto:
 
-ChatUp!
+ChatUp! Plataforma para treinar a conversação do inglês no dia a dia.
 
 # História:
 
